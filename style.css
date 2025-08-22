@@ -6,5 +6,8 @@ h1{
 }
 
 div{
-    text-align: left;
+    text-align: center;
+}
+p{
+    color: orange;
 }
